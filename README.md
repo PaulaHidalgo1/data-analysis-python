@@ -20,7 +20,7 @@ Analizar un conjunto de datos para extraer conclusiones útiles mediante limpiez
 ## Descripción del proyecto
 Este proyecto consiste en el análisis de datos de ventas farmacéuticas mensuales con el objetivo de identificar tendencias temporales y comparar el rendimiento de distintas categorías de medicamentos. El análisis se ha realizado utilizando Python y librerías de análisis de datos.
 
-El proyecto está orientado a demostrar habilidades propias de un perfil **Junior Data Analyst**, incluyendo limpieza de datos, análisis exploratorio, visualización y extracción de conclusiones.
+El proyecto está orientado a demostrar habilidades propias de Data Analyst, incluyendo limpieza de datos, análisis exploratorio, visualización y extracción de conclusiones.
 
 ---
 
